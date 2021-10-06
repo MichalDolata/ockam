@@ -945,6 +945,7 @@ dependencies = [
 name = "ockam_node"
 version = "0.31.0"
 dependencies = [
+ "cfg-if",
  "ockam_core",
  "tokio",
  "tracing",
